@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/88fear/script/main/aimviewer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/angry0cat/antilock/main/antilock"))()
